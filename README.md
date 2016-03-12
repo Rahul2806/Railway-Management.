@@ -12,7 +12,5 @@ Availability
 Passenger Details
 Arrival Time
 Departure Time
-Fixed Arrival Time
-Fixed Departure Time
 Running Days
 List of intermediate stations
